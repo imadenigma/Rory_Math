@@ -1,4 +1,4 @@
-import app.MyApp
+import me.imadenigma.app.MyApp
 import tornadofx.launch
 
 fun main(args: Array<String>) {

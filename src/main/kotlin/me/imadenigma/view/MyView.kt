@@ -1,6 +1,6 @@
-package view
+package me.imadenigma.view
 
-import app.Styles
+import me.imadenigma.app.Styles
 import tornadofx.*
 
 class MyView : View("My View") {

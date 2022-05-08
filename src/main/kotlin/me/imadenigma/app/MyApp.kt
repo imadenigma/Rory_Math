@@ -1,7 +1,7 @@
-package app
+package me.imadenigma.app
 
 import tornadofx.App
-import view.MyView
+import me.imadenigma.view.MyView
 
 class MyApp: App(MyView::class, Styles::class) {
 }

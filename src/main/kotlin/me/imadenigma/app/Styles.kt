@@ -1,4 +1,4 @@
-package app
+package me.imadenigma.app
 
 import javafx.scene.text.FontWeight
 import tornadofx.Stylesheet
